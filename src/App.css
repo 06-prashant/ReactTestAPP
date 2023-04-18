@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+.incB{
+  color: green;
+  border: none;
+  background-color: #9ea9c0;
+}
+.decB{
+  color: red;
+  border: none;
+  background-color: #9ea9c0;
+}
+.comp1{
+  text-align: center;
+  margin-top: 170px;
+}
